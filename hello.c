@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-printf("Robyn MacDonald Mathematics\n");
+printf("Robyn MacDonald Mathematics, Taylor Kellogg Computer Science\n");
 
 return 0;
 
